@@ -1,7 +1,7 @@
 ### 记录学习笔记和路径
 #### Mastering Bitcoin
 ##### Merkle tree alg
-书中没有详细说明merkle tree的细节部分，可以参考[这篇博文](https://blog.csdn.net/wo541075754/article/details/54632929)
+书中没有详细说明merkle tree如何证明节点包含某条交易，可以参考[这篇博文](https://www.deadalnix.me/2016/09/24/introducing-merklix-tree-as-an-unordered-merkle-tree-on-steroid/)
 
 
 #### 以太坊
